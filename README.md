@@ -1,5 +1,5 @@
 # MedTwin — Medical Equipment Digital Twin Platform
-🌐 **[Open MedTwin Platform](https://med-twin-aka21329h-med-twin-development.vercel.app)**
+🌐 **[Open MedTwin Platform](https://medtwin-health.vercel.app)**
 
 
 MedTwin is a cloud-based SaaS platform for medical equipment management, digital twins, preventive maintenance, service operations, and healthcare asset lifecycle tracking.
